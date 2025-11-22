@@ -78,13 +78,8 @@ The dashboard provides insights into **UPI transaction trends, revenue performan
 ```
 UPI-Transactions-Data-Analysis/
 │── README.md
-│── Data/ (Raw & Cleaned Data)
 │── PowerBI_Dashboard.pbix
-│── SQL_Queries/
 │── Images/ (Dashboard Screenshots)
-│── Insights_Report.pdf
-│── .gitignore
-│── LICENSE
 ```
 
 ---
