@@ -13,7 +13,13 @@ This is an end-to-end Data Analytics project based on **UPI Transaction Data**, 
 
 The dashboard provides insights into **UPI transaction trends, revenue performance, user demographics, and payment behavior patterns**.
 
+<img width="1737" height="977" alt="image" src="https://github.com/user-attachments/assets/7720d644-b10a-4372-b364-136eca6e71e6" />
+<img width="1759" height="973" alt="image" src="https://github.com/user-attachments/assets/dec0321b-e8b7-4e9a-b01b-89ebf8b4ae1e" />
+
+
 ---
+
+
 
 ## 🛠 Tools & Technologies Used
 
